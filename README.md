@@ -1,0 +1,3 @@
+# Next.js-starter
+
+Jeg ble lei av å skrelle bort alle filene hver gang jeg starter et Next.js-prosjekt i undervisningen, så jeg laget meg en liten starter her hvor alt er skrelt bort i utgangspunktet. Jeg har også lagt til et lite utgangspunkt for å skrive god CSS-kode i `@/css`. Denne mappen kan du slette om du vil begynne å skrive din egen styling fra scratch, eller om du foretrekker å bruke moduler eller et rammeverk.

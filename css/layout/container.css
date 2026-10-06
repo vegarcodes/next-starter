@@ -1,0 +1,5 @@
+.container {
+	container: container / inline-size;
+	inline-size: min(100%, 60rem);
+	margin-inline: auto;
+}

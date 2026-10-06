@@ -1,0 +1,7 @@
+:root {
+  --site-background-color: white;
+  --site-text-color: black;
+  --link-color: #3a0ca3;
+  --link-hover-color: hsl(from var(--link-color) h s calc(l + 8));
+  --selection-background-color: rgb(0 0 0 / 20%);
+}
